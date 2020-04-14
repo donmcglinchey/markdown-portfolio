@@ -1,1 +1,1 @@
-![Don McGlinchey Profile] (https://github.com/donmcglinchey)
+![Don McGlinchey Profile](https://github.com/donmcglinchey)
